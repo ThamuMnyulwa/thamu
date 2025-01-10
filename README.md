@@ -34,25 +34,3 @@ I'm a Machine Learning Engineer with expertise in developing and deploying produ
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnyulwa)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ThamuMnyulwa)
 [![Google Cloud](https://img.shields.io/badge/-Cloud_Skills-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/aeaf977c-1924-4ad9-8296-470a86e366aa)
-
-
-### 🚀 Hackathon Projects (as a student)
-
-- Capitec-Gemini (2021 Winner) [🔗](https://www.youtube.com/watch?v=L2N_7APJA0w)
-
-  - Built a solution using AWS Sagemaker and AWS Neptune graph database
-  - Implemented graph-based models with Gremlin query language
-  - Developed system to identify clients using personal accounts for business purposes
-  - Created intelligent community-based recommendations for business banking transitions
-
-- Standard Bank-SOAR (2021 Winner)
-
-  - Was in the winning team against 3 universities in Standard Bank Data Lab challenge
-  - Developed BETA application integrating NLP and multiple time series models
-  - Created comprehensive solution to support South African tourism industry recovery
-
-- Capitec-AIR (2020 Winner) [🔗](https://www.sun.ac.za/english/Lists/news/DispForm.aspx?ID=7561)
-
-  - Created Automated Industry Report (AIR) application to support small businesses
-  - Developed innovative solution leveraging unstructured data from various sources
-  - Won first place in Stellenbosch University Capitec Hackathon
