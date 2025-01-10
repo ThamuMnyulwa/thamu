@@ -47,7 +47,7 @@ I'm a Machine Learning Engineer with expertise in developing and deploying produ
 
 - Standard Bank-SOAR (2021 Winner)
 
-  - Led winning team against 3 universities in Standard Bank Data Lab challenge
+  - Was in the winning team against 3 universities in Standard Bank Data Lab challenge
   - Developed BETA application integrating NLP and multiple time series models
   - Created comprehensive solution to support South African tourism industry recovery
 
