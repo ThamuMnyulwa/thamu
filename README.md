@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Machine Learning Engineer & Data Scientist
 
-I'm a Machine Learning Engineer with expertise in developing and deploying production-level ML systems. I specialize in retail analytics and have experience in agricultural solutions and financial modeling.
+I'm a Machine Learning Engineer with experience developing and deploying production-level ML systems. I have mainly worked in retail analytics and have experience in agricultural solutions and financial modeling.
 
 🔭 **Current Focus:** Building analytics platforms in GCP and AWS using Terraform
 
